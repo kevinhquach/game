@@ -83,6 +83,7 @@ voice_ban.dt
 *.tmp
 
 # Momentum
+*.bsp
 *.zon
 *.mrf
 progress.dat
@@ -98,7 +99,6 @@ mp/game/bin/
 mp/game/momentum/version.txt
 mp/game/momentum/downloadlists/
 mp/game/momentum/map_cache.dat
-mp/game/momentum/maps/*.bsp
 
 # Others
 *.cache
