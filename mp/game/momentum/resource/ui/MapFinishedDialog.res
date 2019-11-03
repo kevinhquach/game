@@ -31,12 +31,12 @@
     {
         "ControlName" "Label"
         "fieldName"  "Current_Zone"
-        "font"          "Default"//Set by "TextFont" 
-        "xpos"          "0"
-        "ypos"          "0"
-        "wide"          "100"
-        "tall"          "10"//Set by font size
-        "autoResize"    "1"
+        "font"          "BigNoodleSmall"//Set by "TextFont" 
+        "xpos"          "76"
+        "ypos"          "3"
+        "wide"          "80"
+        "tall"          "20"//Set by font size
+        "autoResize"    "0"
         "pinCorner"     "0"
         "visible"       "1"
         "enabled"       "1"
@@ -125,7 +125,7 @@
     {
         "ControlName" "Label"
         "fieldName"  "Zone_Overall_Time"
-        "font"          "Default"//Set by "TextFont" 
+        "font"          "BigNoodleSmall"
         "xpos"          "6"
         "ypos"          "11"
         "wide"          "100"
@@ -145,7 +145,7 @@
     {
         "ControlName" "Label"
         "fieldName"  "Zone_Enter_Time"
-        "font"          "Default"//Set by "TextFont" 
+        "font"          "BigNoodleSmall"
         "xpos"          "0"
         "ypos"          "-3"
         "wide"          "100"
@@ -168,7 +168,7 @@
     {
         "ControlName" "Label"
         "fieldName"  "Zone_Strafes"
-        "font"          "Default"//Set by "TextFont" 
+        "font"          "BigNoodleSmall"
         "xpos"          "0"
         "ypos"          "-3"
         "wide"          "100"
@@ -191,7 +191,7 @@
     {
         "ControlName" "Label"
         "fieldName"  "Zone_Jumps"
-        "font"          "Default"//Set by "TextFont" 
+        "font"          "BigNoodleSmall"
         "xpos"          "0"
         "ypos"          "-3"
         "wide"          "100"
@@ -214,7 +214,7 @@
     {
         "ControlName" "Label"
         "fieldName"  "Zone_Vel_Enter"
-        "font"          "Default"//Set by "TextFont" 
+        "font"          "BigNoodleSmall"
         "xpos"          "0"
         "ypos"          "-3"
         "wide"          "100"
@@ -237,7 +237,7 @@
     {
         "ControlName" "Label"
         "fieldName"  "Zone_Vel_Exit"
-        "font"          "Default"//Set by "TextFont" 
+        "font"          "BigNoodleSmall"
         "xpos"          "0"
         "ypos"          "-3"
         "wide"          "100"
@@ -260,7 +260,7 @@
     {
         "ControlName" "Label"
         "fieldName"  "Zone_Vel_Avg"
-        "font"          "Default"//Set by "TextFont" 
+        "font"          "BigNoodleSmall"
         "xpos"          "0"
         "ypos"          "-3"
         "wide"          "100"
@@ -283,7 +283,7 @@
     {
         "ControlName" "Label"
         "fieldName"  "Zone_Vel_Max"
-        "font"          "Default"//Set by "TextFont" 
+        "font"          "BigNoodleSmall"
         "xpos"          "0"
         "ypos"          "-3"
         "wide"          "100"
@@ -306,7 +306,7 @@
     {
         "ControlName" "Label"
         "fieldName"  "Zone_Sync1"
-        "font"          "Default"//Set by "TextFont" 
+        "font"          "BigNoodleSmall"
         "xpos"          "0"
         "ypos"          "-3"
         "wide"          "100"
@@ -329,7 +329,7 @@
     {
         "ControlName" "Label"
         "fieldName"  "Zone_Sync2"
-        "font"          "Default"//Set by "TextFont" 
+        "font"          "BigNoodleSmall"
         "xpos"          "0"
         "ypos"          "-3"
         "wide"          "100"
@@ -352,7 +352,7 @@
     {
         "ControlName" "Label"
         "fieldName"  "Run_Save_Status"
-        "font"          "Default"//Set by "TextFont" 
+        "font"          "BigNoodleSmall"
         "xpos"          "0"
         "ypos"          "2"
         "wide"          "f0"
@@ -375,7 +375,7 @@
     {
         "ControlName" "Label"
         "fieldName"  "Run_Upload_Status"
-        "font"          "Default"//Set by "TextFont" 
+        "font"          "BigNoodleSmall"
         "xpos"          "0"
         "ypos"          "2"
         "wide"          "120"
@@ -398,7 +398,7 @@
     {
         "ControlName" "Label"
         "fieldName"  "XP_Gain_Cos"
-        "font"          "Default"//Set by "TextFont" 
+        "font"          "BigNoodleSmall"
         "xpos"          "0"
         "ypos"          "2"
         "wide"          "120"
@@ -421,7 +421,7 @@
     {
         "ControlName" "Label"
         "fieldName"  "Cos_Level_Gain"
-        "font"          "Default"//Set by "TextFont" 
+        "font"          "BigNoodleSmall"
         "xpos"          "3"
         "ypos"          "1"
         "wide"          "120"
@@ -444,7 +444,7 @@
     {
         "ControlName" "Label"
         "fieldName"  "XP_Gain_Rank"
-        "font"          "Default"//Set by "TextFont" 
+        "font"          "BigNoodleSmall"
         "xpos"          "0"
         "ypos"          "-2"
         "wide"          "120"
@@ -467,7 +467,7 @@
     {
         "ControlName" "Label"
         "fieldName" "Detach_Mouse"
-        "font"          "Default"//Set by "TextFont" 
+        "font"          "Default"
         "xpos"          "2"
         "ypos"          "134"
         "wide"          "f0"
